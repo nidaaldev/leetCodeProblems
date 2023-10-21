@@ -9,3 +9,5 @@ var isPalindrome = function(x) {
 
   return false;
 };
+
+// I will optimize in the future
